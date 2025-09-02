@@ -50,6 +50,7 @@ expo start
 
 In the screen teacher pressed 'w' to see the app on the web.
 
+He also instructed us to download the Expo app in Google Play to see the app in an Android cellphone.
 
 # Links passed in complementary materials section
 
