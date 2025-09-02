@@ -22,3 +22,8 @@ Small observations:
 
 - we have a package related to Babel;
 - we have a package related to Expo. We will not use Expo only to create and debug the app. We will use a package related to Expo.
+
+
+# Other comments
+
+![other comments 1](images/other-comments-1.png)
