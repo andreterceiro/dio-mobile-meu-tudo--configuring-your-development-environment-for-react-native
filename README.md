@@ -52,6 +52,8 @@ In the screen teacher pressed 'w' to see the app on the web.
 
 He also instructed us to download the Expo app in Google Play to see the app in an Android cellphone.
 
+Then using this app teacher instructed us to scan the QR Code provided by the command `npm run start`.
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
