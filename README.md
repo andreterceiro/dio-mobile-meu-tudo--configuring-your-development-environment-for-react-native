@@ -42,6 +42,12 @@ Teacher instructed us to run the project with the followin command:
 npm run start
 ```
 
+or
+
+```
+expo start
+```
+
 
 # Links passed in complementary materials section
 
