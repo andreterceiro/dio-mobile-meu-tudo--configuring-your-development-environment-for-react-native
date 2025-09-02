@@ -27,3 +27,5 @@ Small observations:
 # Other comments
 
 ![other comments 1](images/other-comments-1.png)
+
+- **App.tsx**: initial script of the app;
