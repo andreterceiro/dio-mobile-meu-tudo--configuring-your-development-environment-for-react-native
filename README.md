@@ -12,3 +12,8 @@ Teacher daid that we will see a lot of warnings when installing Expo because its
 We will use the template "Blank (TypeScript)" (from te previous image) in the course.
 
 ![creting a React Native project (2)](images/creating-a-react-native-project-2.png)
+
+
+# package.json of an empty project
+
+![package.json of an empty project](images/package-json-of-an-empty-project.png)
