@@ -32,3 +32,8 @@ I will make comments about some files, not all files.
 
 - **App.tsx**: initial script of the app;
 - **app.json**: some configurations related to the app.
+
+
+# Links passed in complementary materials section
+
+[Expo Go](https://expo.dev/go)
