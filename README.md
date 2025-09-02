@@ -29,3 +29,4 @@ Small observations:
 ![other comments 1](images/other-comments-1.png)
 
 - **App.tsx**: initial script of the app;
+- **app.json**: some configurations related to the app.
