@@ -48,6 +48,8 @@ or
 expo start
 ```
 
+In the screen teacher pressed 'w' to see the app on the web.
+
 
 # Links passed in complementary materials section
 
