@@ -34,6 +34,15 @@ I will make comments about some files, not all files.
 - **app.json**: some configurations related to the app.
 
 
+# Running the app
+
+Teacher instructed us to run the project with the followin command:
+
+```
+npm run start
+```
+
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
