@@ -28,5 +28,7 @@ Small observations:
 
 ![other comments 1](images/other-comments-1.png)
 
+I will make comments about some files, not all files.
+
 - **App.tsx**: initial script of the app;
 - **app.json**: some configurations related to the app.
