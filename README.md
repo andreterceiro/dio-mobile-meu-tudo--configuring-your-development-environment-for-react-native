@@ -78,6 +78,8 @@ Teacher commented that not all things of the React Native CLI "world" will work 
 
 He also commented that you can migrate an app created using Expo CLI to a React **Native** app (see the word **Native** app). You have to find by "expo eject" in Google. 
 
+And teacher commented that Expo is amazing and he use it nowdays, but if he needs to start a project and in this project he has a lot of doubts, probably he would install Android Studio and would use use React **Native** CLI.
+
 
 # Links passed in complementary materials section
 
