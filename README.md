@@ -63,7 +63,7 @@ Then using this app teacher instructed us to scan the QR Code provided by the co
 - Choose the template, as example "Blank (TypeScript)";
 - Enter in the create directory (`cd my-app`);
 - Run the app: `npm run start`;
-- Now you will can see the app in the browser typing "w" or scan the QR code in the Expo;
+- Now you will can see the app in the browser typing "w" or scan the QR code in the Expo. To see the project on the browser was needed to stop the app, install some packages with the command `npx expo install react-dom react-native-web @expo/metro-runtime` and run the app again;
 - One comment: please wait the app in the cellphone or tablet be full loaded to see the right content of the app. In the beggining I saw an icon, but after the app was loaded I saw a text that was in App.tsx;
 
 
