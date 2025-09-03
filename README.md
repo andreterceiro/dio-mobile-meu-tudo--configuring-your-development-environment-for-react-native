@@ -67,6 +67,11 @@ Then using this app teacher instructed us to scan the QR Code provided by the co
 - One comment: please wait the app in the cellphone or tablet be full loaded to see the right content of the app. In the beggining I saw an icon, but after the app was loaded I saw a text that was in App.tsx;
 
 
+# Live reload
+
+Teacher changed the text o the blank app, saved and the text changed in the cellphone. In my text this was not ocurred, I needed to stop the app and run again, I think I did not wait a sufficient time only, but no problem, if it was not the case is necessary only run the app again. This is very quick.
+
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
