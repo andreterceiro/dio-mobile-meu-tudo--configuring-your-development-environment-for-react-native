@@ -54,6 +54,19 @@ He also instructed us to download the Expo app in Google Play to see the app in 
 
 Then using this app teacher instructed us to scan the QR Code provided by the command `npm run start`.
 
+
+# Summary that we studied until now
+
+- Please install the expo App;
+- Please do this instalation globally: `npm install --global expo-cli`;
+- Please create the expo app: `npx create-expo-app my-app`. **Attention:** is "create-**expo**-app" and not "create-**react**-app;
+- Choose the template, as example "Blank (TypeScript)";
+- Enter in the create directory (`cd my-app`);
+- Run the app: `npm run start`;
+- Now you will can see the app in the browser typing "w" or scan the QR code in the Expo;
+- One comment: please wait the app in the cellphone or tablet be full loaded to see the right content of the app. In the beggining I saw an icon, but after the app was loaded I saw a text that was in App.tsx;
+
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
