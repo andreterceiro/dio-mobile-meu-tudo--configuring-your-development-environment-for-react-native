@@ -76,6 +76,8 @@ Teacher changed the text o the blank app, saved and the text changed in the cell
 
 Teacher commented that not all things of the React Native CLI "world" will work on the app created by the Expo CLI, but Expo will save you from some headaches like install Android Studio.
 
+He also commented that you can migrate an app created using Expo CLI to a React **Native** app (see the word **Native** app). You have to find by "expo eject" in Google. 
+
 
 # Links passed in complementary materials section
 
