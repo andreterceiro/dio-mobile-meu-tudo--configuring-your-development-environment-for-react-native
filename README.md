@@ -36,7 +36,7 @@ I will make comments about some files, not all files.
 
 # Running the app
 
-Teacher instructed us to run the project with the followin command:
+Teacher instructed us to run the project with the following command:
 
 ```
 npm run start
