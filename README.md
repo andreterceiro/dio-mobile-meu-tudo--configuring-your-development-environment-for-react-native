@@ -85,6 +85,8 @@ He also commented that you can migrate an app created using Expo CLI to a React 
 
 And teacher commented that Expo is amazing and he use it nowdays, but if he needs to start a project and in this project he has a lot of doubts, probably he would install Android Studio and would use use React **Native** CLI. This option because Expo not works very well with some third part tools or components.
 
+It was simple. I only needed to [enable the developer options in the tablet](https://learn.microsoft.com/pt-br/dotnet/maui/android/device/setup?view=net-maui-9.0).
+
 
 # Links passed in complementary materials section
 
