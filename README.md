@@ -72,9 +72,9 @@ Then using this app teacher instructed us to scan the QR Code provided by the co
 Teacher changed the text o the blank app, saved and the text changed in the cellphone. In my text this was not ocurred, I needed to stop the app and run again, I think I did not wait a sufficient time only, but no problem, if it was not the case is necessary only run the app again. This is very quick.
 
 
-# Android Studio
+# Android Studio and Vysor
 
-Teacher also said that we can install Android Studio to use the debugger, but Android Studio instalator is very big (almost 10 GB).
+Teacher also said that we can install Android Studio to use the debugger, but Android Studio instalator is very big (almost 10 GB). Because of this teacher asked us to install Vysor.
 
 
 # Expo CLI x React Native CLI
