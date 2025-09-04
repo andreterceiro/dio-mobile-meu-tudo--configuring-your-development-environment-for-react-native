@@ -97,6 +97,8 @@ Vysior has a "play button" on its screen. And when I clicked in this option I co
 
 ![Vysor main screen](images/vysor-main-screen.png)
 
+In real I could see the exact main window of the tablet, the developer app or other app and interact with this app using the mouse.
+
 
 # Links passed in complementary materials section
 
