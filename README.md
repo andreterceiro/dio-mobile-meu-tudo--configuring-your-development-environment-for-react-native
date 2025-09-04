@@ -87,7 +87,9 @@ And teacher commented that Expo is amazing and he use it nowdays, but if he need
 
 It was simple. I only needed to [enable the developer options in the tablet](https://learn.microsoft.com/pt-br/dotnet/maui/android/device/setup?view=net-maui-9.0). 
 
-After scanning the QR Code on Expo I could see the app in the cellphone.
+After scanning the QR Code on Expo app I could see the app in the tablet.
+
+I already had Android Studio installed in the computer. Then I could run `adb devices` and in the output I could see the identification of the tablet.
 
 
 # Links passed in complementary materials section
