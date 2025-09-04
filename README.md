@@ -93,6 +93,10 @@ After scanning the QR Code on Expo app I could see the app in the tablet.
 
 I already had Android Studio installed in the computer. Then I could run `adb devices` and in the output I could see the identification of the tablet.
 
+Vysior has a "play button" on its screen. And when I clicked in this option I could see the app that I saw in the tablet (the active window on the tablet)
+
+![Vysor main screen](images/vysor-main-screen.png)
+
 
 # Links passed in complementary materials section
 
