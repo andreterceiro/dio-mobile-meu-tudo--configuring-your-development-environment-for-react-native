@@ -132,6 +132,13 @@ In this file you will configure things like:
 - configurations linked to a platform, like Android or iOS.
 
 
+# Files or folders that rarely we will change
+
+- node_modules directory
+- babel.config.js
+- .expo directory
+- tsconfig.json
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
