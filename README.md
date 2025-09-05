@@ -122,6 +122,15 @@ There you can change **as example** the splash screen of the app and its icon.
 
 ![app.json](images/app-json.png)
 
+In this file you will configure things like:
+
+- app name;
+- app icon;
+- app splash screen;
+- app version;
+- app orientation;
+- configurations linked to a platform, like Android or iOS.
+
 
 # Links passed in complementary materials section
 
