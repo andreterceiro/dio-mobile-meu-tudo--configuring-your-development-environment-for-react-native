@@ -106,6 +106,7 @@ You have to run a emulator on Android Studio.
 
 Remember, to run the app you have to run `npm run start`.
 
+In the screen related to the app running, you can press "a".
 
 
 # Links passed in complementary materials section
