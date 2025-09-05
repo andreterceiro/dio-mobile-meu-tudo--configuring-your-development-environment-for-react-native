@@ -118,6 +118,11 @@ There you can change **as example** the splash screen of the app and its icon.
 ![assets directory](images/assets-directory.png)
 
 
+# File app.json
+
+![app.json](images/app-json.png)
+
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
