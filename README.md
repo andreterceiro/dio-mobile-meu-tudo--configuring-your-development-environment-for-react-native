@@ -145,6 +145,14 @@ In this file you will configure things like:
 Teacher suggest us to create a 'src' folder (under the root folder) to us insert the source code of the app.
 
 
+# Official documentation
+
+Teacher suggest us to see this links:
+
+- [React Native Dev](http://reactnative.dev)
+- [Expo docs](http://docs.expo.dev)
+
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
