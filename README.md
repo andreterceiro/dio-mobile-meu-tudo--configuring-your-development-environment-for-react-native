@@ -108,6 +108,8 @@ Remember, to run the app you have to run `npm run start`.
 
 In the screen related to the app running, you can press "a".
 
+Now you will see the app on the emulator.
+
 
 # Links passed in complementary materials section
 
