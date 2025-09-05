@@ -102,7 +102,10 @@ In real I could see the exact main window of the tablet, the developer app or ot
 
 # Using an Android emulator and the app created
 
+You have to run a emulator on Android Studio.
+
 Remember, to run the app you have to run `npm run start`.
+
 
 
 # Links passed in complementary materials section
