@@ -100,6 +100,11 @@ Vysior has a "play button" on its screen. And when I clicked in this option I co
 In real I could see the exact main window of the tablet, the developer app or other app and interact with this app using the mouse.
 
 
+# Using an Android emulator and the app created
+
+Remember, to run the app you have to run `npm run start`.
+
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
