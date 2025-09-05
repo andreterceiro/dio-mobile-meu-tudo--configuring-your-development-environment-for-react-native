@@ -113,7 +113,7 @@ Now you will see the app on the emulator.
 
 # The 'assets' directory
 
-There you can change the splash screen of the app and its icon.
+There you can change **as example** the splash screen of the app and its icon.
 
 ![assets directory](images/assets-directory.png)
 
