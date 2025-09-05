@@ -139,6 +139,12 @@ In this file you will configure things like:
 - .expo directory
 - tsconfig.json
 
+
+# src of the app
+
+Teacher suggest us to create a 'src' folder (under the root folder) to us insert the source code of the app.
+
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
