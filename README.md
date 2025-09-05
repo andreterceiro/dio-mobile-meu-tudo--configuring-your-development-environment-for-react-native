@@ -111,6 +111,11 @@ In the screen related to the app running, you can press "a".
 Now you will see the app on the emulator.
 
 
+# The 'assets' directory
+
+There you can change the splash screen of the app and its icon.
+
+
 # Links passed in complementary materials section
 
 [Expo Go](https://expo.dev/go)
